@@ -1,0 +1,1 @@
+where to save catalogs, raw .wav files by person and .tfrecords
